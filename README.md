@@ -72,7 +72,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-
+Developed by: ASIN VARDHINI R
+RegisterNumber: 212222100007
 ```
 #include "main.h"
 void SystemClock_Config(void);
@@ -121,7 +122,11 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
- 
+ ![Screenshot 2023-04-25 111846](https://user-images.githubusercontent.com/119417735/234189986-9e869eef-a386-4166-9bdd-0e8e8b42dfc0.png)
+
+
+![Screenshot 2023-04-25 111956](https://user-images.githubusercontent.com/119417735/234190017-b7354ee1-9e8e-47b2-abb4-60633b5e1927.png)
+
  
  
  
